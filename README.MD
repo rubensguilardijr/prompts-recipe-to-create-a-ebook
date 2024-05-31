@@ -41,12 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um titulo de um ebook sobre o tema de subir em bananeiras, o ebook com nicho de bananas, o titulo deve ser epico e curto, com uma tematica mais arte/video games, me liste 5 variacoes                                                        |
-| conteúdo | Faca um texto para ebook, com foco em subir em bananeiras, listando os principais tipos de bananas com exemplos
-{REGRAS}
->Explique sempre de uma maneira simples
->Deixe o texto enxuto
->Sempre traga exemplos e ilustracoes em contextos reais
->Crie um nome |
+| conteúdo | Faca um texto para ebook, com foco em subir em bananeiras, listando os principais tipos de bananas com exemplos REGRAS Explique sempre de uma maneira simples Deixe o texto enxuto Sempre traga exemplos e ilustracoes em contextos reais Crie um nome |
 
 
 Copilots
